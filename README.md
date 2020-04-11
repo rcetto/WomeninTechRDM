@@ -1,2 +1,0 @@
-# WomeninTechRDM
-Created with CodeSandbox
